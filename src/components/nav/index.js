@@ -10,8 +10,8 @@ function Nav() {
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
                     <ul>
-                        <li>Score:</li>
-                        <li>Top Score: </li>
+                        <li><a class="navbar-nav" href="#">Score: </a></li>
+                        <li><a class="navbar-nav" href="#">Top Score: </a></li>
                     </ul>
                 </div>
             </div>

@@ -11,6 +11,17 @@ function App() {
           Welcome to my memory game! Try to only click each photo once!
         </p>
         <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
       </header>
     </div>
   );
